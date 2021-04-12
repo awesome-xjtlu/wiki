@@ -26,8 +26,7 @@
 
 # 2. 提交方式
 
-1. 下载模板进行编辑，发送邮件至robotfor1999@gmail.com
+1. 下载模板进行编辑，或者随心所欲编辑，发送邮件至robotfor1999@gmail.com
    - 不建议使用学校邮箱进行发送。（考虑隐私以及回复邮件会被学校邮箱识别为垃圾邮件）
-2. 随心所欲编辑，发送邮件至robotfor1999@gmail.com
 3. Github上提issues，commits。
 
