@@ -15,6 +15,13 @@
 
 1. 一切规则围绕**信息有效性**与**信息真实性**展开。
 
+## 分类
+
+- grad-application：研究生申请
+- grad-program：研究生项目
+- optional-module：选修课介绍
+- suzhou-liverpool：苏州/利物浦生活随想
+
 ## 计划
 
 - 完善、改进模板内容。:star::star::star:
