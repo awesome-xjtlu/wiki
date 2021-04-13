@@ -36,10 +36,6 @@
 
 - 完善、改进模板内容。:star::star::star:
 - 丰富提交、评论机制。:star::star::star:
-- 核准提交信息真实度。:star::star:
-- 申请阶段时间线跟踪。:star::star:
-- 拓展更多的分享资源。:star:
-- 寻找小伙伴共同运营。:star::star:
 
 # 2. 提交方式
 
