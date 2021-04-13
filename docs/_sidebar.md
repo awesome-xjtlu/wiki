@@ -1,5 +1,5 @@
 - [项目介绍](readme.md)
-- [申请总结](grad-application/readme.md)
+- [申请总结](grad-application/README.md)
   - [数学（1）](grad-application/21fall/math/readme.md)
   - [ee](grad-application/21fall/ee/readme.md)
   - [cs](grad-application/21fall/cs/readme.md)
