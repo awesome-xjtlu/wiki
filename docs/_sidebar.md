@@ -1,7 +1,7 @@
 - [项目介绍](README.md)
 - [申请总结](grad-application/readme.md)
   - [数学（1）](grad-application/21fall/math/readme.md)
-  - [ee](grad-application/21fall/ee/readme.md)
+  - [ee](grad-application/21fall/Advanced-Technology/readme.md)
   - [cs](grad-application/21fall/cs/readme.md)
 - [项目介绍](grad-program/readme.md)
 - [选修推荐](optional-module/readme.md)
