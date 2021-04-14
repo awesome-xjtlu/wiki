@@ -1,3 +1,0 @@
-- [应用数学](grad-application/21fall/math/applied-math/readme.md)
-- [金融数学](grad-application/21fall/math/finanical-math/readme.md)
-- [精算](grad-application/21fall/math/actuarial-math/readme.md)
