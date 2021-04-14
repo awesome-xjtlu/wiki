@@ -1,10 +1,12 @@
 - [关于我们](README.md)
 - [申请总结](grad-application/21fall/readme.md)
-  - [理学院（1）](grad-application/21fall/school-of-science/readme.md)
+  - [理学院](grad-application/21fall/school-of-science/readme.md)
   - [智能工程学院](grad-application/21fall/school-of-advanced-technology/readme.md)
   - [国际商学院（苏州）](grad-application/21fall/international-business-school-suzhou/readme.md)
-- [项目介绍](intro-program/readme.md)
-- [选修推荐](optional-module/readme.md)
+- 专业介绍
+  - [XJTLU&UoL（1）](intro-program/readme.md)
+  - Others
+- [课程介绍](optional-module/readme.md)
   - [大一](optional-module/year1/readme.md)
   - [大二](optional-module/year2/readme.md)
   - [大三（1）](optional-module/year3/readme.md)
