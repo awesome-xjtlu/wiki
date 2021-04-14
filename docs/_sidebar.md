@@ -1,5 +1,5 @@
 - [关于我们](README.md)
-- [申请总结](grad-application/readme.md)
+- [申请总结](grad-application/21fall/readme.md)
   - [理学院（1）](grad-application/21fall/school-of-science/readme.md)
   - [智能工程学院](grad-application/21fall/school-of-advanced-technology/readme.md)
   - [国际商学院（苏州）](grad-application/21fall/international-business-school-suzhou/readme.md)

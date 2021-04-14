@@ -10,7 +10,7 @@
 * [BSc Applied Mathematics](grad-application/21fall/school-of-science/applied-mathematics/readme.md)
 * [BSc Financial Mathematics](grad-application/21fall/school-of-science/finanical-mathematics/readme.md)
 
-#### BIO
+
 
 * [BSc Applied Chemistry](grad-application/21fall/school-of-science/applied-chemistry/readme.md)
 * [BSc Bioinformatics](grad-application/21fall/school-of-science/bioinformatics/readme.md)
