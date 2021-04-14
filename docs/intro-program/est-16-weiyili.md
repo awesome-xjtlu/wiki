@@ -1,8 +1,8 @@
-> 背景：
+> 背景：20届CST
 >
 > 来源：[知乎](https://www.zhihu.com/people/li-wei-yi-86-54)
 >
-> 联系：
+> 联系：见知乎
 >
 > 更新时间：2021-04-09
 
@@ -44,31 +44,29 @@ EST专业课主要课程分为
 
 而且学校现在在不断进行课程改革，仅过了两年很多课程的内容都比我们上的时候改进很多，更加实用和项目导向。我们大二时EEE103是全程手动，手画电路、手算、手动作图，用不到电脑的，现在开始用Altium Designer设计电路了（也可能是其他的电路设计软件）。EEE118工程制图以前是全手画，现在使用AutoCAD来作图。连工科生必备排版软件LaTeX的正式引入都从大三下的EEE212提早到大二上的EEE103，老师对课改投入的精力看得见。
 
-![img](https://pic4.zhimg.com/50/v2-41c1c1981ff5ef065bc3cea5127a717b_hd.jpg?source=1940ef5c)![img](https://pic4.zhimg.com/80/v2-41c1c1981ff5ef065bc3cea5127a717b_720w.jpg?source=1940ef5c)EEE116的数字钟
+![img](https://pic4.zhimg.com/80/v2-41c1c1981ff5ef065bc3cea5127a717b_720w.jpg?source=1940ef5c)EEE116的数字钟
 
-![img](https://pic4.zhimg.com/50/v2-bcb5af7c30cadb48b835c3a453d0e52c_hd.jpg?source=1940ef5c)![img](https://pic4.zhimg.com/80/v2-bcb5af7c30cadb48b835c3a453d0e52c_720w.jpg?source=1940ef5c)EEE116 Open Project的产品
+![img](https://pic4.zhimg.com/80/v2-bcb5af7c30cadb48b835c3a453d0e52c_720w.jpg?source=1940ef5c)EEE116 Open Project的产品
 
 具体课程如下
 
 - 大一
 
-![img](https://pic1.zhimg.com/50/v2-85c3db764e595a828c17dcb8a5df49fe_hd.jpg?source=1940ef5c)![img](https://pic1.zhimg.com/80/v2-85c3db764e595a828c17dcb8a5df49fe_720w.jpg?source=1940ef5c)
+![img](https://pic1.zhimg.com/80/v2-85c3db764e595a828c17dcb8a5df49fe_720w.jpg?source=1940ef5c)
 
 - 大二
 
-![img](https://pic2.zhimg.com/50/v2-8743f8d21bdebd10a29be4cb7c6836f5_hd.jpg?source=1940ef5c)![img](https://pic2.zhimg.com/80/v2-8743f8d21bdebd10a29be4cb7c6836f5_720w.jpg?source=1940ef5c)
+![img](https://pic2.zhimg.com/80/v2-8743f8d21bdebd10a29be4cb7c6836f5_720w.jpg?source=1940ef5c)
 
 - 大三
 
-![img](https://pic1.zhimg.com/50/v2-51047a766955ab66b676f8a32ae3551d_hd.jpg?source=1940ef5c)![img](https://pic1.zhimg.com/80/v2-51047a766955ab66b676f8a32ae3551d_720w.jpg?source=1940ef5c)
+![img](https://pic1.zhimg.com/80/v2-51047a766955ab66b676f8a32ae3551d_720w.jpg?source=1940ef5c)
 
-
-
-![img](https://pic2.zhimg.com/50/v2-cbcc6466276aa0e3a632addd02959da6_hd.jpg?source=1940ef5c)![img](https://pic2.zhimg.com/80/v2-cbcc6466276aa0e3a632addd02959da6_720w.jpg?source=1940ef5c)
+![img](https://pic2.zhimg.com/80/v2-cbcc6466276aa0e3a632addd02959da6_720w.jpg?source=1940ef5c)
 
 - 大四
 
-![img](https://pic2.zhimg.com/50/v2-6b8da9420250aee19cffd73d47b8fa52_hd.jpg?source=1940ef5c)![img](https://pic2.zhimg.com/80/v2-6b8da9420250aee19cffd73d47b8fa52_720w.jpg?source=1940ef5c)
+![img](https://pic2.zhimg.com/80/v2-6b8da9420250aee19cffd73d47b8fa52_720w.jpg?source=1940ef5c)
 
 因为西浦电气系全系专业都通过了IET认证，院系会从大四的毕业设计中选出优秀者颁发IET最佳毕设的荣誉。
 
@@ -82,7 +80,7 @@ EST专业课主要课程分为
 
 不论是4年都在西浦，还是2+2到利物浦，都有西浦双证和利物浦大学的本科学位。但学位的院系名称有所不同，4年西浦是西浦的院系名称，2+2是利物浦的院系名称。
 
-![img](https://pic2.zhimg.com/50/v2-d2c6f2bc8e5476e38ce4b9f45f884458_hd.jpg?source=1940ef5c)![img](https://pic2.zhimg.com/80/v2-d2c6f2bc8e5476e38ce4b9f45f884458_720w.jpg?source=1940ef5c)
+![img](https://pic2.zhimg.com/80/v2-d2c6f2bc8e5476e38ce4b9f45f884458_720w.jpg?source=1940ef5c)
 
 **毕业去向**
 
@@ -94,7 +92,7 @@ EST专业课主要课程分为
 
 对微电子和集成电路专业来说，知识习得要求高，经验积累时间长，个人更建议去集成电路或VLSI领域的名校深造，例如南洋理工大学、香港科技大学等；尤其是两年制硕士项目的名校，比如荷兰代尔夫特理工大学、荷兰鲁汶大学、密歇根大学、南加州大学、佐治亚理工学院等。这些学校的硕士西浦同学基本都可以申请到，其中部分学校是西浦同学去向较多的。
 
-![img](https://pic2.zhimg.com/50/v2-d028843bb0a63205426dfb744c3e1409_hd.jpg?source=1940ef5c)![img](https://pic2.zhimg.com/80/v2-d028843bb0a63205426dfb744c3e1409_720w.jpg?source=1940ef5c)
+![img](https://pic2.zhimg.com/80/v2-d028843bb0a63205426dfb744c3e1409_720w.jpg?source=1940ef5c)
 
 **课程设计与授课范围评价**
 
