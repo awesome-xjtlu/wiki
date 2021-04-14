@@ -2,6 +2,7 @@
 - [申请总结](grad-application/readme.md)
   - [理学院（1）](grad-application/21fall/school-of-science/readme.md)
   - [智能工程学院](grad-application/21fall/school-of-advanced-technology/readme.md)
+  - [国际商学院（苏州）](grad-application/21fall/international-business-school-suzhou/readme.md)
 - [项目介绍](grad-program/readme.md)
 - [选修推荐](optional-module/readme.md)
   - [大一](optional-module/year1/readme.md)
