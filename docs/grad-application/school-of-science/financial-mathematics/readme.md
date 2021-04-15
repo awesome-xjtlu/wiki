@@ -1,0 +1,4 @@
+# BSc Financial Mathematics
+
+------
+
