@@ -12,6 +12,5 @@
   - [大三（1）](optional-module/year3/readme.md)
   - [大四](optional-module/year4/readme.md)
 - [苏州:heart:利物浦](suzhou-liverpool/readme.md)
-  - [苏州](suzhou-liverpool/suzhou/readme.md)
-  - [利物浦（1）](suzhou-liverpool/liverpool/readme.md)
-
+    - [苏州](suzhou-liverpool/suzhou/readme.md)
+    - [利物浦（1）](suzhou-liverpool/liverpool/readme.md)
