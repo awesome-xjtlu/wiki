@@ -1,4 +1,4 @@
-- # Awesome-XJTLU
+  # Awesome-XJTLU
 
   Awesome-XJTLU是一个关于在XJTLU&UoL学习与生活的Wiki，包含**申请总结、专业介绍、课程介绍与学习生活感想**。
 

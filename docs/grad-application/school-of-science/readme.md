@@ -19,6 +19,6 @@
 
 ***
 
-### Graduation Application
+## Graduation Application
 
 Each program will be dispatched an independent directory. Students can add the markdown file in this directory based on the template provided.

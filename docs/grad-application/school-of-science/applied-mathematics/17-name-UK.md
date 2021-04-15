@@ -1,10 +1,10 @@
-## 17-Name-(UK, US, Europe, Asia)
+# 17-Name-(UK, US, Europe, Asia)
 
 ***
 
-### Basic Background
+## Background
 
-#### 三维
+#### Grades
 
 > Year 1: 80 --- Year 2: 80 --- Year 3: 80----GPA: 3.5/4
 >
@@ -12,13 +12,13 @@
 >
 > GRE/GMAT: 170+170+6 (GRE)
 
-#### 其他
+#### Experiences
 
 > Any other background like internship, research...
 
 ------
 
-### Application Result
+## Application Result
 
 #### Decision: University Name + Program Name
 
@@ -29,7 +29,7 @@
 * **Reject \(2\)**:
   * University Name 1 + Program Name 1, University Name 2 + Program Name 2
 
-### Application Suggestion
+## Application Suggestion
 
 申请总结（选校定位，中介/DIY，实习，科研，联系方式...）
 
