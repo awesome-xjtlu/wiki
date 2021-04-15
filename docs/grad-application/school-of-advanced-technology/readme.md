@@ -14,7 +14,7 @@
 
 ***
 
-### Graduation Application
+## Graduation Application
 
 Each program will have an independent directory. Students can add the markdown file in this directory based on the
 template provided. The markdown file name should be your name (If you care about the privacy, you can use a nickname).
