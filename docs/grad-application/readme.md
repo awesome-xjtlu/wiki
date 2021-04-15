@@ -8,6 +8,8 @@
 
 This directory will include all the application details for students group by program.
 
+Click [HERE](grad-application/template) to get application template
+
 ## Program（to 2021-09）
 
 - international-business-school-suzhou 国际商学院（苏州）
@@ -35,7 +37,3 @@ This directory will include all the application details for students group by pr
      - biological-sciences 生物
      - environmental-sciences 环境科学
      - financial-mathematics 金融数学
-
-## Template
-
-Click [HERE](grad-application/template) to download application template
