@@ -4,8 +4,8 @@
   - [智能工程学院](grad-application/school-of-advanced-technology/readme.md)
   - [国际商学院（苏州）](grad-application/international-business-school-suzhou/readme.md)
 - 专业介绍
-  - [XJTLU&UoL（1）](intro-program/readme.md)
-  - Others
+  - [XJTLU&UoL（1）](intro-program/xjtlu-uol/readme.md)
+  - [Grad-School](intro-program/grad-school/readme.md)
 - [课程介绍](intro-module/readme.md)
   - [大一](intro-module/year1/readme.md)
   - [大二](intro-module/year2/readme.md)
