@@ -8,7 +8,7 @@
 
 This directory will include all the application details for students group by program.
 
-Click [HERE](grad-application/template) to get application template
+Click [HERE](grad-application/grad-application-template) to get application template
 
 ## Program（to 2021-09）
 

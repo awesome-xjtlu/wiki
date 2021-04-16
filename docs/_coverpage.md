@@ -5,7 +5,7 @@
 
 
 * XJTLU Wiki Since 2021.04
-* ALL Rights Reserved.
+* All Rights Reserved.
 
 [GitHub](https://github.com/robotfor1999/awesome-xjtlu)
 [Get Started](README.md)
@@ -17,3 +17,4 @@
 <!-- background color -->
 
 <!--![color](#f0f0f0)
+
