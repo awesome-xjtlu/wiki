@@ -31,6 +31,8 @@
 * **Reject \(2\)**:
   * University Name 1 + Program Name 1, University Name 2 + Program Name 2
 
+------
+
 ## Application Suggestion
 
 申请总结（选校定位，中介/DIY，实习，科研，联系方式...）

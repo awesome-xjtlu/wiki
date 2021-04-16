@@ -1,3 +1,17 @@
+# 公告
+
+1. 寻找一起维护项目的同学，我们需要你（你将获得）：
+   - 喜欢整理、分类（获得利用git管理文件，制作个人博客的能力）。
+   - 熟悉前端知识（获得魔改前端包源代码(docsify)的能力）(非必须）。
+
+# 近期更新
+
+- [21fall研究生校友群二维码汇总](intro-program/grad-school/readme.md)
+- [[2021-04-16] [申请总结] 16-Marketing-Coco](grad-application/international-business-school-suzhou/marketing/16-coco-us,asia.md)
+- [[2021-04-14] [专业介绍] 16-EST-Weiyi Li](intro-program/xjtlu-uol/est-16-weiyili.md)
+- [[2021-04-12] [课程介绍] MTH2xx](intro-module/year3/mth2xx.md)
+- [[2021-04-12] [生活学习感想] 2+2零零碎碎唠唠叨叨（2021更新版）](suzhou-liverpool/liverpool/liverpool0001.md)
+
 # Awesome-XJTLU
 
 Awesome-XJTLU是一个关于在XJTLU&UoL学习与生活的Wiki，包含**申请总结、专业介绍、课程介绍与学习生活感想**。
