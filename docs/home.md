@@ -20,7 +20,6 @@ Awesome-XJTLU是一个关于在XJTLU&UoL学习与生活的Wiki，包含**申请�
 
 本项目现由17级本科生维护。**非官方项目，非盈利项目，完全开源**。欢迎你加入我们。
 
-[点击进入网页版](https://robotfor1999.github.io/awesome-xjtlu/#/)
 
 # 如何分享经验
 
@@ -33,7 +32,6 @@ Awesome-XJTLU是一个关于在XJTLU&UoL学习与生活的Wiki，包含**申请�
 # 友情链接
 
 - [南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/#/)
-- 感谢Editors(@条友*1, [@Weiyi Li](https://www.zhihu.com/people/li-wei-yi-86-54))
 
 - 感谢Contributors ([@dingqy](https://github.com/dingqy), [@LIng](https://github.com/chongfengling),[@robotfor1999](https://github.com/robotfor1999))。
 
