@@ -20,6 +20,8 @@
 
 ## Application Result
 
+#### Direction: 应数、金融工程
+
 #### Decision: University Name + Program Name
 
 #### Result:
