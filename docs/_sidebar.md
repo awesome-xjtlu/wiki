@@ -13,7 +13,7 @@
   - [大四](intro-module/year4/readme.md)
 - [苏州:heart:利物浦](suzhou-liverpool/readme.md)
     - [苏州](suzhou-liverpool/suzhou/readme.md)
-    - [利物浦（1）](suzhou-liverpool/liverpool/readme.md)
+    - [利物浦（2）](suzhou-liverpool/liverpool/readme.md)
 
 
 * [首页](/1)
