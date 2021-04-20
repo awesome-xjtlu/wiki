@@ -11,7 +11,7 @@ Awesome-XJTLU是一个关于在XJTLU&UoL学习与生活的Wiki，包含**申请�
 # 如何分享经验
 
 1. 对于不熟悉`git`的同学：请将编辑好的`Word/Page/Markdown`文件，通过邮件发送到[robotfor1999@gmail.com](mailto:robotfor1999@gmail.com)。
-2. 对于不熟悉/熟悉`git`的同学：请对`docs`路径下的对应文件夹`Pull Request`，提交`Merge`具体参考[《经验分享手册》](经验分享手册.md)。
+2. 对于不熟悉/熟悉`git`的同学：请对`docs`路径下的对应文件夹`Pull Request`，提交`Merge`具体参考[《经验分享手册》](docs/经验分享手册.md)。
 3. 可通过提交[Discussions](https://github.com/robotfor1999/awesome-xjtlu/discussions)，[邮箱](mailto:robotfor1999@gmail.com)联系我们。
 
 **感谢所有毕业生、在校生的分享。**
