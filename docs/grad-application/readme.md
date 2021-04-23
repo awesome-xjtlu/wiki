@@ -2,15 +2,13 @@
 
 ------
 
-
-
-## Description
+### Description
 
 This directory will include all the application details for students group by program.
 
 Click [HERE](grad-application/grad-application-template) to get application template
 
-## Programs（to 2021-09）
+### Programs（to 2021-09）
 
 - international-business-school-suzhou 国际商学院（苏州）
   - accounting 
