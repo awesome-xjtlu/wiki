@@ -25,6 +25,5 @@
 ### 友情链接
 
 - [南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/#/)
-
-- 感谢Contributors ([@dingqy](https://github.com/dingqy), [@LIng](https://github.com/chongfengling))。
+- [SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
