@@ -6,7 +6,7 @@
 - [申请总结](grad-application/readme.md)
   - [理学院](grad-application/school-of-science/readme.md '理学院')
   - [智能工程学院](grad-application/school-of-advanced-technology/readme.md)
-  - [国际商学院（苏州）](grad-application/international-business-school-suzhou/readme.md)
+  - [国际商学院（苏州）（1）](grad-application/international-business-school-suzhou/readme.md)
 - [专业介绍](intro-program\readme.md)
   - [XJTLU&UoL（2）](intro-program/xjtlu-uol/readme.md)
   - [Grad-School](intro-program/grad-school/readme.md)
@@ -15,10 +15,4 @@
   - [大二](intro-module/year2/readme.md)
   - [大三（1）](intro-module/year3/readme.md)
   - [大四](intro-module/year4/readme.md)
-- [苏州:heart:利物浦](suzhou-liverpool/readme.md)
-    - [苏州](suzhou-liverpool/suzhou/readme.md)
-    - [利物浦（2）](suzhou-liverpool/liverpool/readme.md)
-
-
-* [首页](/1)
-<!-- * [Guide](guide.md "The greatest guide in the world") -->
+- [苏州:heart:利物浦（2）](suzhou-liverpool/readme.md)
