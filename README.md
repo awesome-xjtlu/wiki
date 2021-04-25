@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://docsify.js.org">
-    <img alt="docsify" src="./docs/_media/icon.svg">
+    <img alt="docsify" src="./docs/_images/icon.svg">
   </a>
 </p>
+
 
 <p align="center">
   Awesome-XJTLU
