@@ -11,7 +11,7 @@
 * [BA Human Resource Management](grad-application/international-business-school-suzhou/human-resource-management/readme.md)
 * [BSc Information Management and Information Systems](grad-application/international-business-school-suzhou/information-management-and-information-systems/readme.md)
 * [BA International Business with a Language](grad-application/international-business-school-suzhou/international-business-with-a-language/readme.md)
-* [BA Marketing](grad-application/international-business-school-suzhou/marketing/readme.md)
+* [BA Marketing（1）](grad-application/international-business-school-suzhou/marketing/readme.md)
 
 ***
 
