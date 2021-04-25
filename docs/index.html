@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -12,6 +12,8 @@
 <body>
   
   <div id="app">Loading</div>
+    
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
     window.$docsify = {
       name: 'Awesome-XJTLU',
@@ -28,14 +30,18 @@
         color:'rgb(90,90,90)',
         language:'chinese'
       },
-
       subMaxLevel: 2,
       loadSidebar: true,
       coverpage: true,
       auto2top: true,
       homepage: 'home.md',
       notFoundPage: '_404.md',
-      fallbackLanguages: ['fr', 'de']
+      fallbackLanguages: ['fr', 'de'],
+      plugins: [
+        EditOnGithubPlugin.create(
+          "https://github.com/robotfor1999/awesome-xjtlu/blob/main/docs/",
+        ),
+      ],      
     }
   </script>
   <!-- Docsify v4 -->
