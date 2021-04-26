@@ -1,4 +1,4 @@
-- [HomePage](home.md)
+- [HomePage](readme.md)
     - [序言](perface.md)
     - [项目介绍](handbook.md)
     - [上传指南](how2upload.md)
