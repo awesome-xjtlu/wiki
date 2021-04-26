@@ -6,7 +6,7 @@
 
 ### 近期更新
 
-- [[2021-04-16] [申请总结] 17-邹婧文-US](grad-application/international-business-school-suzhou/economics/17-邹婧文-us.md)
+- [[2021-04-26] [申请总结] 17-邹婧文-US](grad-application/international-business-school-suzhou/economics/17-邹婧文-us.md)
 
 - [[2021-04-19] [专业介绍] 17-CST-courses_in_xjtlu_and_uol](intro-program\xjtlu-uol\cst-17-courses_in_xjtlu_and_uol.md)
 - [[2021-04-18] [生活学习感想] Why Liverpool is a great place to study eecs](suzhou-liverpool/liverpool/liverpool0002.md)
