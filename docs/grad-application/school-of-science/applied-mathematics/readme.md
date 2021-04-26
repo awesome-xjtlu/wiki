@@ -6,7 +6,7 @@
 
 ### 21 fall
 
-- [17-name(example)](grad-application/school-of-science/applied-mathematics/17-name-UK.md)
+- [17-林凡-[US,UK]](grad-application/school-of-science/applied-mathematics/17-林凡-[US,UK].md)
 
 ### 20 fall
 
