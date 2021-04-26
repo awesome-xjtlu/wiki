@@ -6,7 +6,7 @@
 
 * [BA Accounting](grad-application/international-business-school-suzhou/accounting/readme.md)
 * [BA Business Administration](grad-application/international-business-school-suzhou/business-administration/readme.md)
-* [BSc Economics](grad-application/international-business-school-suzhou/economics/readme.md)
+* [BSc Economics（1）](grad-application/international-business-school-suzhou/economics/readme.md)
 * [BSc Economics and Finance](grad-application/international-business-school-suzhou/economics-and-finance/readme.md)
 * [BA Human Resource Management](grad-application/international-business-school-suzhou/human-resource-management/readme.md)
 * [BSc Information Management and Information Systems](grad-application/international-business-school-suzhou/information-management-and-information-systems/readme.md)

@@ -6,7 +6,7 @@
 - [申请总结](grad-application/readme.md)
   - [理学院](grad-application/school-of-science/readme.md '理学院')
   - [智能工程学院](grad-application/school-of-advanced-technology/readme.md)
-  - [国际商学院（苏州）（1）](grad-application/international-business-school-suzhou/readme.md)
+  - [国际商学院（苏州）（2）](grad-application/international-business-school-suzhou/readme.md)
 - [专业介绍](intro-program\readme.md)
   - [XJTLU&UoL（2）](intro-program/xjtlu-uol/readme.md)
   - [Grad-School](intro-program/grad-school/readme.md)
