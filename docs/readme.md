@@ -3,18 +3,19 @@
 1. 寻找一起维护项目的同学，我们需要你（你将获得）：
    - 喜欢整理、分类（获得利用git管理文件，制作个人博客的能力，参加一个开源项目！）。
    - 熟悉前端知识（获得魔改前端包源代码(docsify)的能力）(非必须）。
+2. 欢迎提供21fall研究生群，毕业出闲置群等二维码，帮助大家找到组织！
 
 ### 近期更新
 
+- [[2021-05-05] [生活学习感想] XJTLU -> UoL 2+2 经验分享（2020入学UoL)](suzhou-liverpool/liverpool0002.md)
 - [[2021-04-26] [申请总结] 17-Economics-Jingwen Zou](grad-application/international-business-school-suzhou/economics/17-jingwenzou-us.md)
-
 - [[2021-04-19] [专业介绍] 17-CST-courses_in_xjtlu_and_uol](intro-program\xjtlu-uol\cst-17-courses_in_xjtlu_and_uol.md)
-- [[2021-04-18] [生活学习感想] Why Liverpool is a great place to study eecs](suzhou-liverpool/liverpool/liverpool0002.md)
+- [[2021-04-18] [生活学习感想] Why Liverpool is a great place to study eecs](suzhou-liverpool/liverpool0002.md)
 - [21fall研究生校友群二维码汇总](intro-program/grad-school/readme.md)
 - [[2021-04-16] [申请总结] 16-Marketing-Coco](grad-application/international-business-school-suzhou/marketing/16-coco-us,asia.md)
 - [[2021-04-14] [专业介绍] 16-EST-Weiyi Li](intro-program/xjtlu-uol/est-16-weiyili.md)
 - [[2021-04-12] [课程介绍] MTH2xx](intro-module/year3/mth2xx.md)
-- [[2021-04-12] [生活学习感想] 2+2零零碎碎唠唠叨叨（2021更新版）](suzhou-liverpool/liverpool/liverpool0001.md)
+- [[2021-04-12] [生活学习感想] 2+2零零碎碎唠唠叨叨（2021更新版）](suzhou-liverpool/liverpool0001.md)
 
 ### 关于我们
 

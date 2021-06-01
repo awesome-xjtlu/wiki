@@ -20,7 +20,7 @@
 
 ## Application Result
 
-#### Direction: 应数、金融工程
+#### Direction: Applied Mathematics, Financial Engineering.
 
 #### Decision: University Name + Program Name
 
