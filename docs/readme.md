@@ -7,7 +7,7 @@
 
 ### 近期更新
 
-- [[2021-05-05] [生活学习感想] XJTLU -> UoL 2+2 经验分享（2020入学UoL)](suzhou-liverpool/liverpool0002.md)
+- [[2021-05-05] [生活学习感想] XJTLU -> UoL 2+2 经验分享（2020入学UoL)](suzhou-liverpool/liverpool0003.md)
 - [[2021-04-26] [申请总结] 17-Economics-Jingwen Zou](grad-application/international-business-school-suzhou/economics/17-jingwenzou-us.md)
 - [[2021-04-19] [专业介绍] 17-CST-courses_in_xjtlu_and_uol](intro-program\xjtlu-uol\cst-17-courses_in_xjtlu_and_uol.md)
 - [[2021-04-18] [生活学习感想] Why Liverpool is a great place to study eecs](suzhou-liverpool/liverpool0002.md)
