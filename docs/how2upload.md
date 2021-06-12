@@ -2,7 +2,7 @@
 
 1. 注册`Github`账号，选择`free plan`即可。
 
-2. 登录后点击[页面](https://github.com/robotfor1999/awesome-xjtlu/tree/main/docs)，选中想要分享的页面。
+2. 登录后点击[页面](https://github.com/awesome-xjtlu/wiki/tree/main/docs)，选中想要分享的页面。
 
    >grad-application：申请总结
    >
@@ -12,8 +12,9 @@
    >
    >suzhou-liverpool：生活感想
 
-3. 内容可以实时更新。
+3. 任何问题欢迎联系[robotfor1999@gmail.com](mailto:robotfor1999@gmail.com)。
 
+4. 对于不熟悉`git`的同学：请将编辑好的`Word/Page/Markdown`文件，通过邮件发送到[robotfor1999@gmail.com](mailto:robotfor1999@gmail.com)。
 ------
 
 ## 申请总结

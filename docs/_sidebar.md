@@ -1,4 +1,4 @@
-- [HomePage](readme.md)
+- [首页](readme.md)
     - [序言](perface.md)
     - [项目介绍](handbook.md)
     - [上传指南](how2upload.md)
@@ -16,4 +16,4 @@
   - [大三](intro-module/year3/readme.md)
   - [大四](intro-module/year4/readme.md)
 - [生活感想](suzhou-liverpool/readme.md)
-- 
+- [资源分享](sources/readme.md) 
