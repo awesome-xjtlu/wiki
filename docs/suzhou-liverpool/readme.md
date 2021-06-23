@@ -1,5 +1,6 @@
 ## XJTLU in Suzhou
 
+- [在西交利物浦大学就读是怎么的体验-hopehhh](suzhou-liverpool/xjtlu0001.md)
 
 
 ## UoL in Liverpool

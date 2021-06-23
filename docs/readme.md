@@ -6,17 +6,18 @@
 2. 欢迎提供21fall研究生群，毕业出闲置群等二维码，帮助大家找到组织！
 
 ### 近期更新
-
+- [2021-04-12] [课程介绍] MTH1xx, MATH2xx, MATH3xx
+- [[2021-06-23] [生活经验] 17-AM-Yueting Han](grad-application\school-of-science\applied-mathematics\17-yuetinghan-uk,can.md)
+- [[2021-06-23] [生活经验] 在西交利物浦大学就读是怎么的体验-hopehhh](suzhou-liverpool/xjtlu0001.md)
 - [[2021-06-12] 新增Source板块](sources/readme.md)
-- [[2021-05-05] [生活学习感想] XJTLU -> UoL 2+2 经验分享（2020入学UoL)](suzhou-liverpool/liverpool0003.md)
+- [[2021-05-05] [生活经验] XJTLU -> UoL 2+2 经验分享（2020入学UoL)](suzhou-liverpool/liverpool0003.md)
 - [[2021-04-26] [申请总结] 17-Economics-Jingwen Zou](grad-application/international-business-school-suzhou/economics/17-jingwenzou-us.md)
 - [[2021-04-19] [专业介绍] 17-CST-courses_in_xjtlu_and_uol](intro-program\xjtlu-uol\cst-17-courses_in_xjtlu_and_uol.md)
-- [[2021-04-18] [生活学习感想] Why Liverpool is a great place to study eecs](suzhou-liverpool/liverpool0002.md)
+- [[2021-04-18] [生活经验] Why Liverpool is a great place to study eecs](suzhou-liverpool/liverpool0002.md)
 - [[持续更新] 21fall研究生校友群二维码汇总](intro-program/grad-school/readme.md)
 - [[2021-04-16] [申请总结] 16-Marketing-Coco](grad-application/international-business-school-suzhou/marketing/16-coco-us,asia.md)
 - [[2021-04-14] [专业介绍] 16-EST-Weiyi Li](intro-program/xjtlu-uol/est-16-weiyili.md)
-- [[2021-04-12] [课程介绍] MTH2xx](intro-module/year3/mth2xx.md)
-- [[2021-04-12] [生活学习感想] 2+2零零碎碎唠唠叨叨（2021更新版）](suzhou-liverpool/liverpool0001.md)
+- [[2021-04-12] [生活经验] 2+2零零碎碎唠唠叨叨（2021更新版）](suzhou-liverpool/liverpool0001.md)
 
 ### 关于我们
 
