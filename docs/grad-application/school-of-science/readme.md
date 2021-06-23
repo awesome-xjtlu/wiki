@@ -7,7 +7,7 @@
 #### Math
 
 * [BSc Actuarial Science](grad-application/school-of-science/actuarial-science/readme.md)
-* [BSc Applied Mathematics](grad-application/school-of-science/applied-mathematics/readme.md)
+* [BSc Applied Mathematics（1）](grad-application/school-of-science/applied-mathematics/readme.md)
 * [BSc Financial Mathematics](grad-application/school-of-science/financial-mathematics/readme.md)
 
 
