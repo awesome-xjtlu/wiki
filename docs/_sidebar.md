@@ -4,7 +4,7 @@
     - [上传指南](how2upload.md)
     - [维护手册](maintenance.md)
 - [申请总结](grad-application/readme.md)
-  - [理学院](grad-application/school-of-science/readme.md '理学院')
+  - [理学院](grad-application/school-of-science/readme.md)
   - [智能工程学院](grad-application/school-of-advanced-technology/readme.md)
   - [国际商学院（苏州）](grad-application/international-business-school-suzhou/readme.md)
   - [西浦创业家学院（太仓）](tmp.md)
