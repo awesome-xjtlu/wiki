@@ -41,6 +41,7 @@ XJTLU是一所留学率极高，学习生活偏“孤寡”化的学校；考虑
 
 ### 友情链接
 
+- [ICS Notes by dexhunter](https://xjtlu-lug.gitbook.io/ics-notes/)
 - [南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/#/)
 - [SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/)
 
