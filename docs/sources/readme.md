@@ -12,6 +12,12 @@
 - [XJTLU Library Databases](https://login.ez.xjtlu.edu.cn/login)
   - 图书馆数据库
 
+- [XJTLU SURF暑期科研](https://github.com/xjtlu-lug/surf-collection)
+  - 收集历年SURF项目（欢迎贡献）
+
+- [XJTLU FYP Design Report 模板](https://github.com/xjtlu-lug/xjtlu-fyp-design-report-latex)
+  - FYP毕设设计报告模板
+
 ## Life
 
 
@@ -24,4 +30,5 @@
 
 #### Blogs
 
-- [LIng's Blog](https://www.chongfeng-ling.com/)
+- [Ling's Blog](https://www.chongfeng-ling.com/)
+- [Dex's Blog](https://blog.dex.moe/)
