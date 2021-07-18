@@ -6,6 +6,7 @@
 2. 欢迎提供21fall研究生群，毕业出闲置群等二维码，帮助大家找到组织！
 
 ### 近期更新
+- [[2021-07-17] [申请总结] 17-CST- Dequn Teng](grad-application\school-of-advanced-technology\computer-science-technology\17-dequnteng-uk.md)
 - [[2021-06-23] [课程介绍] MTH1xx, MATH2xx, MATH3xx](intro-module/readme.md)
 - [[2021-06-23] [生活经验] 17-AM-Hope](grad-application\school-of-science\applied-mathematics\17-yuetinghan-uk,can.md)
 - [[2021-06-23] [生活经验] 在西交利物浦大学就读是怎么的体验-hopehhh](suzhou-liverpool/xjtlu0001.md)
