@@ -6,6 +6,9 @@
 2. 欢迎提供21fall研究生群，毕业出闲置群等二维码，帮助大家找到组织！
 
 ### 近期更新
+
+- [[2021-2022 Semester 1] [Course Notes] PHY301 Quantum Mechanics](https://github.com/chongfengling/notes/blob/main/PHY301_Quantum_Mechanics/phy301_quantum_mechanics.pdf)
+
 - [[2021-07-17] [申请总结] 17-CST- Dequn Teng](grad-application\school-of-advanced-technology\computer-science-technology\17-dequnteng-uk.md)
 - [[2021-06-23] [课程介绍] MTH1xx, MATH2xx, MATH3xx](intro-module/readme.md)
 - [[2021-06-23] [生活经验] 17-AM-Hope](grad-application\school-of-science\applied-mathematics\17-yuetinghan-uk,can.md)
